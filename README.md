@@ -27,7 +27,7 @@ This project implements a sentiment analysis application using machine learning 
 ## Project Structure
 
 - `data/`: Contains the training and validation datasets.
-- `src/`: Contains the source code for model training and prediction.
+- `source/`: Contains the source code for model training and prediction.
 - `models/`: Stores the trained models and vectorizers.
 - `app.py`: The main Streamlit application.
 - `requirements.txt`: List of Python dependencies.
